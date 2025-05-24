@@ -1,0 +1,7 @@
+[project]
+name = "openai-tf-prep"
+version = "0.1.0"
+description = "My prep for openai"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
